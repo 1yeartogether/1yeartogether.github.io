@@ -1,0 +1,68 @@
+
+body {
+	background: url("../imgs/Splash.jpg") no-repeat center 1px fixed;
+	background-size: cover;
+}
+
+h2 {
+	font-size: 79px;
+}
+
+h3 {
+	font-size: 79px;
+}
+
+p {
+	font-size: 50px;
+}
+.body {
+	color: blue;
+}
+
+.body1 {
+	color: white;
+}
+
+.title-text {
+	width: auto;
+	font-size: 96px;
+	font-weight: bold;
+	font-family: Monotype Corsiva;
+	color: blue;
+	margin-top: 10vh;
+	margin-right: auto; 
+	margin-left: auto;
+}
+
+.profile-pic {
+	max-width: 100%;
+	height: 300px;
+}
+
+.transparent-card {
+	background-color: transparent;
+}
+
+.caption {
+	color: white;
+	position: relative;
+	width: 100px;
+	margin-left: 70px;
+}
+
+.card {
+	border: none;
+	margin-top: 50px;
+}
+
+.icon {
+	color: blue;
+	margin: 0 30px;
+}
+
+.favmems1 {
+	height: auto;
+	width: 100%;
+	float: left;
+	border: transparent 20px solid;
+}

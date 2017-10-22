@@ -1,0 +1,12 @@
+nav {
+	background-color: rgba(0,0,0,0);
+}
+
+.date-title.navbar-brand.nav-link {
+	color: blue;
+}
+
+.date-title.navbar-brand.nav-link:hover {
+	color: blue;
+	font-weight: bold;
+}
